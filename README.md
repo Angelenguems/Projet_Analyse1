@@ -14,12 +14,13 @@ Concevoir un dictionnaire de données complet
 Explorer le jeu de données à l’aide de Python et Jupyter Notebook
 
 ### Structure du dépôt
-
+```
 NexaStore_Data_Analysis/
 │
-├── Nexa_Store_Dataset_0.2.csv      → Données brutes
-├── NexaStore_Analysis.ipynb        → Notebook d’analyse
-└── output.xlsx                     → Dictionnaire de données (premier jet)
+├── Nexa_Store_Dataset_0.2.csv → Données brutes
+├── NexaStore_Analysis.ipynb → Notebook d’analyse
+└── output.xlsx → Dictionnaire de données (premier jet)
+```
 
 ### Compétences mobilisées
 Analyse fonctionnelle et traduction des besoins métiers
@@ -53,11 +54,12 @@ Build a comprehensive data dictionary
 Explore the dataset using Python and Jupyter Notebook
 
 ###  Repository Structure
+```
 NexaStore_Data_Analysis/
 │
 ├── Nexa_Store_Dataset_0.2.csv      → Raw dataset
 ├── NexaStore_Analysis.ipynb        → Analysis notebook
-└── output.xlsx                     → Data dictionary (first draft)
+└── output.xlsx                     → Data dictionary (first draft) ```
 
 ###  Skills Developed
 Business analysis and requirement translation
