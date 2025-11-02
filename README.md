@@ -8,10 +8,10 @@ Projet académique réalisé dans le cadre du cours Projet d’analyse de donné
 L’objectif est d’accompagner l’entreprise simulée NexaStore dans la compréhension de ses besoins métiers, leur traduction en questions analytiques et la création d’un dictionnaire de données à partir d’un jeu de données transactionnel.
 
 ### Objectifs du projet
-Identifier et formaliser les besoins métiers
-Traduire ces besoins en questions analytiques
-Concevoir un dictionnaire de données complet
-Explorer le jeu de données à l’aide de Python et Jupyter Notebook
+- Identifier et formaliser les besoins métiers
+- Traduire ces besoins en questions analytiques
+- Concevoir un dictionnaire de données complet
+- Explorer le jeu de données à l’aide de Python et Jupyter Notebook
 
 ### Structure du dépôt
 ```
@@ -23,10 +23,10 @@ NexaStore_Data_Analysis/
 ```
 
 ### Compétences mobilisées
-Analyse fonctionnelle et traduction des besoins métiers
-Nettoyage et compréhension des données (pandas, numpy)
-Communication entre équipes métier et data
-Documentation et structuration des variables
+- Analyse fonctionnelle et traduction des besoins métiers
+- Nettoyage et compréhension des données (pandas, numpy)
+- Communication entre équipes métier et data
+- Documentation et structuration des variables
 
 ### Technologies utilisées
 Python 
@@ -48,10 +48,10 @@ Academic project completed as part of the Data Analysis Project course at Collè
 The goal was to support the simulated company NexaStore in understanding its business needs, translating them into analytical questions, and building a data dictionary from a transactional dataset.
 
 ### Project Objectives
-Identify and formalize business requirements
-Translate them into analytical questions
-Build a comprehensive data dictionary
-Explore the dataset using Python and Jupyter Notebook
+- Identify and formalize business requirements
+- Translate them into analytical questions
+- Build a comprehensive data dictionary
+- Explore the dataset using Python and Jupyter Notebook
 
 ###  Repository Structure
 ```
@@ -63,10 +63,10 @@ NexaStore_Data_Analysis/
 ```
 
 ###  Skills Developed
-Business analysis and requirement translation
-Data cleaning and understanding (pandas, numpy)
-Cross-team communication (business ↔ data)
-Data documentation and structuring
+- Business analysis and requirement translation
+- Data cleaning and understanding (pandas, numpy)
+- Cross-team communication (business ↔ data)
+- Data documentation and structuring
 
 ### Technologies
 
