@@ -5,6 +5,7 @@ Projet académique en data analysis – Business understanding &amp; data dictio
 ### Description du projet
 
 Projet académique réalisé dans le cadre du cours Projet d’analyse de données au Collège La Cité (Ottawa).
+
 L’objectif est d’accompagner l’entreprise simulée NexaStore dans la compréhension de ses besoins métiers, leur traduction en questions analytiques et la création d’un dictionnaire de données à partir d’un jeu de données transactionnel.
 
 ### Objectifs du projet
@@ -29,22 +30,25 @@ NexaStore_Data_Analysis/
 - Documentation et structuration des variables
 
 ### Technologies utilisées
-Python 
-Jupyter Notebook
-Excel
+- Python 
+- Jupyter Notebook
+- Excel
 
 ### Auteurs
 
 Projet réalisé en équipe dans le cadre du programme Applied Data Science – Collège La Cité.
+
 Angèle Blandine Feussi Nguemkam et collaborateurs.
 
 🔗 [LinkedIn](https://www.linkedin.com/in/angele-blandine-feussi-nguemkam-846141140)
+
 🧑🏽‍💻 [GitHub](https://github.com/Angelenguems)
 
 
 ###  Project Overview
 
 Academic project completed as part of the Data Analysis Project course at Collège La Cité (Ottawa).
+
 The goal was to support the simulated company NexaStore in understanding its business needs, translating them into analytical questions, and building a data dictionary from a transactional dataset.
 
 ### Project Objectives
@@ -70,13 +74,15 @@ NexaStore_Data_Analysis/
 
 ### Technologies
 
-Python
-Jupyter Notebook
-Excel
+- Python
+- Jupyter Notebook
+- Excel
 
 ### Authors
 Project completed as part of the Applied Data Science program – Collège La Cité (Ottawa).
+
 Angèle Blandine Feussi Nguemkam and collaborators.
 
 🔗 [LinkedIn](https://www.linkedin.com/in/angele-blandine-feussi-nguemkam-846141140)
+
 🧑🏽‍💻 [GitHub](https://github.com/Angelenguems)
