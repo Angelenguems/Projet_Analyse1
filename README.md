@@ -14,6 +14,7 @@ Concevoir un dictionnaire de données complet
 Explorer le jeu de données à l’aide de Python et Jupyter Notebook
 
 ### Structure du dépôt
+
 NexaStore_Data_Analysis/
 │
 ├── Nexa_Store_Dataset_0.2.csv      → Données brutes
@@ -36,9 +37,9 @@ Excel
 Projet réalisé en équipe dans le cadre du programme Applied Data Science – Collège La Cité.
 Angèle Blandine Feussi Nguemkam et collaborateurs.
 
-🔗 LinkedIn 
+🔗 [LinkedIn](https://www.linkedin.com/in/angele-blandine-feussi-nguemkam-846141140)
+🧑🏽‍💻 [GitHub](https://github.com/Angelenguems)
 
-🧑🏽‍💻 GitHub
 
 ###  Project Overview
 
@@ -74,6 +75,5 @@ Excel
 Project completed as part of the Applied Data Science program – Collège La Cité (Ottawa).
 Angèle Blandine Feussi Nguemkam and collaborators.
 
-🔗 LinkedIn
-
-🧑🏽‍💻 GitHub
+🔗 [LinkedIn](https://www.linkedin.com/in/angele-blandine-feussi-nguemkam-846141140)
+🧑🏽‍💻 [GitHub](https://github.com/Angelenguems)
