@@ -59,7 +59,8 @@ NexaStore_Data_Analysis/
 │
 ├── Nexa_Store_Dataset_0.2.csv      → Raw dataset
 ├── NexaStore_Analysis.ipynb        → Analysis notebook
-└── output.xlsx                     → Data dictionary (first draft) ```
+└── output.xlsx                     → Data dictionary (first draft) 
+```
 
 ###  Skills Developed
 Business analysis and requirement translation
